@@ -1,0 +1,17 @@
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\bin\Debug\net10.0\Kasino.Infrastructure.deps.json
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\bin\Debug\net10.0\Kasino.Infrastructure.dll
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\bin\Debug\net10.0\Kasino.Infrastructure.pdb
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.csproj.AssemblyReference.cache
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.AssemblyInfoInputs.cache
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.AssemblyInfo.cs
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.csproj.CoreCompileInputs.cache
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.dll
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\refint\Kasino.Infrastructure.dll
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.pdb
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\ref\Kasino.Infrastructure.dll
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\bin\Debug\net10.0\Kasino.Infrastructure.runtimeconfig.json
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\bin\Debug\net10.0\Kasino.Domain.dll
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\bin\Debug\net10.0\Kasino.Domain.pdb
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.I.980F4336.Up2Date
+E:\UTB\Kasino\Kasino\Kasino.Infrastructure\obj\Debug\net10.0\Kasino.Infrastructure.genruntimeconfig.cache

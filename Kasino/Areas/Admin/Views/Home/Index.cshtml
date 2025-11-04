@@ -1,0 +1,28 @@
+﻿@model List<User>
+
+<h1>Admin Area</h1>
+
+<table> 
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+            Username
+        </th>
+        <th>
+            Balance
+        </th>
+    </tr>
+    <tr>
+        @foreach (var user in Model)
+        {
+        <tr>
+            <th scope="row">@user.Id</th>
+            <th scope="row">@user.Username</th>
+            <th scope="row">@user.Balance</th>
+        </tr>
+        }
+    </tr>
+
+</table>
